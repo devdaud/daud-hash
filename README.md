@@ -21,7 +21,7 @@
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: I waste most of my time playing games and watching tv series
 
 ## 🛠️ Technologies and Tools I use:
 
