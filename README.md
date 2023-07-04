@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
 
-- 💬 Ask me about **react, react native, flutter, node, Typescript, express, jest**
+- 💬 Ask me about **Ask me just about anything. I am happy to help.**
 
 - 📫 How to reach me **dauddev007@gmail.com**
 
