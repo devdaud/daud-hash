@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **dauddev007@gmail.com**
 
+- &nbsp;📄 Check out my Resume _[Here](https://drive.google.com/file/d/18NWPvKJkiFPmZj7ZAhF5leZCaMwDBomi/view?usp=sharing_link)_.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad daud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad daud" height="30" width="40" /></a>
