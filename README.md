@@ -24,6 +24,9 @@
  <a href="https://linkedin.com/in/muhammad daud">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad daud" height="30" width="40" />
  </a>
+ <a href="https://www.upwork.com/freelancers/~011c73b26e4909dd20">
+  <img align="left" alt="daud Upwork" height="24px" src="https://github.com/devdaud/daud-hash/blob/main/upwork-tile.svg" />
+   </a>
 </br>
  
  <h2>🛠 Languages & Tools<h2>
