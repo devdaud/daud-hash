@@ -22,13 +22,13 @@
 
  <h2>📲  Let's Connect<h2>
  <div style="text-align: center;">
- <a href="https://linkedin.com/in/muhammad daud">
+ <a href="https://www.linkedin.com/in/muhammaddauddev/" target="_blank">
  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad daud" height="24" />
  </a>
-<a href="https://www.upwork.com/freelancers/~011c73b26e4909dd20">
+<a href="https://www.upwork.com/freelancers/~011c73b26e4909dd20" target="_blank">
 <img align="left" alt="daud Upwork" height="24px" src="https://github.com/devdaud/daud-hash/blob/main/upwork-tile.svg" />
 </a>
-<a href="https://matching.turing.com/developer-resume-preview/68e8f9a8e280f9190fa3e58dabadcc1c98b8630f0014d0">
+<a href="https://matching.turing.com/developer-resume-preview/68e8f9a8e280f9190fa3e58dabadcc1c98b8630f0014d0" target="_blank">
 <img align="left" alt="daud turing" height="30px" src="https://github.com/devdaud/daud-hash/blob/main/turing-logo.jpeg" />
 </a>
  </div>
