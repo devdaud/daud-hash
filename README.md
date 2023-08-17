@@ -14,7 +14,7 @@
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me.
 
-- 🥷🏽   I'm currently learning **MEAN Stack**.
+- 🥷🏽   I'm currently learning **Angular**.
 
 - 🗓   Ask me about **JavaScript**, **React.js**, **React Native**, and **Flutter** .
 
